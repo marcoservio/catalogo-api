@@ -1,0 +1,6 @@
+$env:AZCOPY_CRED_TYPE = "Anonymous";
+$env:AZCOPY_CONCURRENCY_VALUE = "AUTO";
+./azcopy.exe copy "C:\Users\Marco Sérvio\Downloads\Relatorios_90 TECNOLOGIA DA INFORMACAO LTDA_17092024180948\" "https://storagetrainingmarco.file.core.windows.net/fileshare/photo/?sv=2023-11-03&se=2024-10-18T20%3A35%3A22Z&sr=s&sp=rwl&sig=%2FrjZiBDEyNmv7Urqdu2%2FDLecptLeL%2Bdj2odIryAHV54%3D" --overwrite=prompt --from-to=LocalFile --follow-symlinks --check-length=true --put-md5 --follow-symlinks --preserve-smb-info=true --disable-auto-decoding=false --recursive --log-level=INFO --trailing-dot=Enable;
+$env:AZCOPY_CRED_TYPE = "";
+$env:AZCOPY_CONCURRENCY_VALUE = "";
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

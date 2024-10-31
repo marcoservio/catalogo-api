@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\projects\catalogo-api\APICatalogo\APICatalogo\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-09-05T15:24:46.3352941Z||;True|2024-09-05T12:08:30.4892189-03:00||;True|2024-09-05T12:03:33.1313516-03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
